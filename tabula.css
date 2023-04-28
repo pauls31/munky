@@ -1,0 +1,13 @@
+table, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    
+}
+
+ol {
+    list-style-type: upper-alpha;
+    }
+
+ul {
+    list-style-type: square;
+    }
